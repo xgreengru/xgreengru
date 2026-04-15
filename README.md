@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello!
+I work primarily in html, js, and css.
+Currently working on DownloadHub
 
 <!--
 **xgreengru/xgreengru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
